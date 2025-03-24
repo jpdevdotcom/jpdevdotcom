@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+    # My Tech Stack
+
+    ## Languages
+    - JavaScript
+    - Python
+    - HTML
+    - CSS
+
+    ## Frameworks
+    - React
+    - Node.js
+    - Express.js
+
+    ## Tools
+    - Git
+    - Docker
+    - AWS
