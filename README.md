@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I'm a passionate software developer specializing in Backend Development. I love building scalable applications, exploring modern web technologies, and continuously improving my coding skills.
+I'm a passionate software developer specializing in Backend Development using NodeJs (NestJs). I love building scalable applications, exploring modern web technologies, and continuously improving my coding skills.
 
 * 🌍  I'm based in Northern Samar, Philippines
 * 🖥️  See my portfolio at [jpdev-portfolio](http://jpdev-portfolio-v1.vercel.app/)
