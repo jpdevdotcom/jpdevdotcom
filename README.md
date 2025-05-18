@@ -8,7 +8,7 @@ I'm a passionate full-stack developer driven by building scalable, high-performa
 
 *   🌍  I'm based in Cebu City, Philippines
 *   🖥️  See my portfolio at [jpdev-portfolio](http://jpdev-portfolio-v1.vercel.app/)
-*   ✉️  You can contact me at [jphillipdacallos@gmail.com](mailto:jphillipdacallos@gmail.com)
+*   ✉️  You can contact me at [jphillipdacallos@gmail.com](mailto:jphillipdacallos@gmail.com) or 09773440291
 *   🧠  I'm learning Docker and AI Integration
 *   🤝  I'm open to collaborating on open-source projects and tech education and mentorship### Skills 
 <p align="left">
