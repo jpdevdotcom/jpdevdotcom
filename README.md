@@ -6,7 +6,7 @@ Fullstack Software Developer
 
 I'm a passionate full-stack developer driven by building scalable, high-performance applications. I thrive on exploring modern web technologies and constantly sharpening my coding expertise.
 
-*   🌍  I'm based in Northern Samar, Philippines
+*   🌍  I'm based in Cebu City, Philippines
 *   🖥️  See my portfolio at [jpdev-portfolio](http://jpdev-portfolio-v1.vercel.app/)
 *   ✉️  You can contact me at [jphillipdacallos@gmail.com](mailto:jphillipdacallos@gmail.com)
 *   🧠  I'm learning Docker and AI Integration
