@@ -8,7 +8,7 @@ I'm a passionate full-stack developer driven by building scalable, high-performa
 * 🖥️  See my portfolio at [jpdev-portfolio](http://jpdev-portfolio-v1.vercel.app/)
 * ✉️  You can contact me at [jphillipdacallos@gmail.com](mailto:jphillipdacallos@gmail.com)
 * 🚀  I'm currently working on [PawMed AI](http://https://pawmed-ai.vercel.app/)
-* 🧠  I'm learning I'm learning Python, Django (DRF), VueTs, Docker, and AI Integration
+* 🧠  I'm learning Python, Django (DRF), VueTs, Docker, and AI Integration
 * 🤝  I'm open to collaborating on open-source projects and tech education and mentorship
 
 ### Skills
