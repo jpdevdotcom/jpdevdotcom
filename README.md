@@ -1,6 +1,6 @@
 # Hi 👋 My name is Jan Phillip.
 
-## FullStack Software Engineer
+## Full Stack Software Engineer
 
 I'm a passionate full-stack developer driven by building scalable, high-performance applications. I thrive on exploring modern web technologies and constantly sharpening my coding expertise.
 
