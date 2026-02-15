@@ -7,7 +7,7 @@ I'm a passionate full-stack developer driven by building scalable, high-performa
 * 🌍  I'm based in Cebu City, Philippines
 * 🖥️  See my portfolio at [jpdev-portfolio](http://jpdev-portfolio-v1.vercel.app/)
 * ✉️  You can contact me at [jphillipdacallos@gmail.com](mailto:jphillipdacallos@gmail.com)
-* 🚀  I'm currently working on [PawMed AI](http://https://pawmed-ai.vercel.app/) and [Chatrion](https://chatrion.vercel.app/)
+* 🚀  I'm currently working on [Coverra](https://coverra.pages.dev/), [PawMed AI](http://https://pawmed-ai.vercel.app/), and [Chatrion](https://chatrion.vercel.app/)
 * 🧠  I'm learning Python, Django (DRF), VueTs, Docker, and AI Integration
 * 🤝  I'm open to collaborating on open-source projects and tech education and mentorship
 
