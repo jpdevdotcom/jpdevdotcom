@@ -7,8 +7,8 @@ I'm a passionate full-stack developer driven by building scalable, high-performa
 * 🌍  I'm based in Cebu City, Philippines
 * 🖥️  See my portfolio at [jpdev-portfolio](http://jpdevdotcom.pages.dev/)
 * ✉️  You can contact me at [jphillipdacallos@gmail.com](mailto:jphillipdacallos@gmail.com)
-* 🚀  I'm currently working on [Coverra](https://coverra.pages.dev/), [PawMed AI](https://pawmed-ai.pages.dev/), and [Chatrion](https://chatrion.vercel.app/)
-* 🧠  I'm learning Python, Django (DRF), VueTs, Docker, and AI Integration
+* 🚀  I'm currently working on [Coverra](https://coverra.pages.dev/), [PawMed AI](https://pawmedai.com/), and [Chatrion](https://lakbay-norte.pages.dev/)
+* 🧠  I'm learning Python, Django Rest Framework, Nuxt.js, Docker, and Generative AI
 * 🤝  I'm open to collaborating on open-source projects and tech education and mentorship
 
 ### Skills
